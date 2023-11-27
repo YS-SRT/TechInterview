@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 + Vuex + Typescript in Vite.
 
-![](./Requirement.png)
+![](Requirement.png)
 
 ## Recommended IDE Setup
 
